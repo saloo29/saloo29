@@ -1,0 +1,3 @@
+- 👋 Hi there, I’m Saloni
+- 👀 I’m interested in Web Dev, AWS.
+- 🌱 I’m currently spending my time on building projects and sharpening my skills.
