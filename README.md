@@ -1,3 +1,3 @@
-- 👋 Hi there, I’m Saloni
-- 👀 I’m interested in Web Dev, AWS.
-- 🌱 I’m currently spending my time on building projects and sharpening my skills.
+👋 Hi there, I’m Saloni
+🚀 Frontend dev exploring the Full-Stack world
+🌱 Currently learning Backend (Express, Node.js, MongoDB) & AWS
