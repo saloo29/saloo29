@@ -1,4 +1,10 @@
 👋 Hi, I'm Saloni!
-AWS Certified Developer (DVA-C02) | Frontend Developer → becoming Full-Stack.
-I build scalable, performant web applications using React, Next.js, TypeScript, and modern UI systems.
-Currently expanding into full-stack development with Node.js, Express, and MongoDB to build end-to-end products.
+
+Frontend Engineer with 4 years of experience building scalable, production-grade web applications in fintech and SaaS.
+
+I specialize in React, Next.js, and TypeScript, with hands-on experience across the full stack.
+
+Currently building OpsMonitor — a real-time incident monitoring platform using Node.js, Express, PostgreSQL, Prisma, and Docker.
+
+⚡ Focus: performance, scalability, and clean UI architecture
+🏗️ Building in public — follow along
