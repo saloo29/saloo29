@@ -6,5 +6,3 @@ I specialize in React, Next.js, and TypeScript, with hands-on experience across 
 
 Currently building OpsMonitor — a real-time incident monitoring platform using Node.js, Express, PostgreSQL, Prisma, and Docker.
 
-⚡ Focus: performance, scalability, and clean UI architecture
-🏗️ Building in public — follow along
